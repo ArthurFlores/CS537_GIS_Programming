@@ -1,0 +1,35 @@
+1. PoliceDuke.gif
+Lethal Weapon: https://www.youtube.com/watch?v=GUorM4nTX7k
+2. SoccerDuke.gif
+Kicking and Screaming: https://www.youtube.com/watch?v=tl_gzZZspG4
+3.IndianaJonesDuke.jpg
+Indiana Jones: https://www.youtube.com/watch?v=nMhfESAa4tw
+4.TeacherDuke.jpg
+School of Rock: https://www.youtube.com/watch?v=3PsUJFEBC74
+
+Homework 2 Instructions:
+   This hw is intended to gain familiarity with the Java awt/swing
+   packages.
+
+   Create 4 or 5 buttons, each initialized with some picture of our
+   Java friend Duke.  Look online for Duke pictures in .jpg or .gif
+   format.  You can put both text and a picture on a button, but you
+   must include a picture.  The buttons can be placed on a JPanel,
+   or used in a grid layout manager.
+
+   Then when a button is clicked, open up a JDialog window as your
+   action event handler and do something related to the picture on
+   that button.   For example you could have some text that explains
+   the picture.   One thing to do is to make all the text and pictures
+   related to a single theme, e.g. sports, music, movies, books, so forth.
+   For example you could use Duke pictures as a way to describe your 5
+   favorite movies.   If you read ahead, you could use links to the web,
+   include movie trailers from You Tube, etc.
+
+   It would be best to code a single dialog window extension and vary
+   what it contains, rather than writing code for 4 or 5 such window
+   extensions.
+
+   The due date is 9/29, and you will hand in hard copy of your Java code,
+   and also demo your work, on a laptop, to a team of graders. Class may
+   be extended to allow time for demos.
